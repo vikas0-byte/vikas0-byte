@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm [Your Name], a passionate web developer with expertise in HTML, CSS, JavaScript, React, Python, and Numpy. I enjoy building innovative solutions and continuously learning new technologies.
+I'm Vikas Sahu, a passionate web developer with expertise in HTML, CSS, JavaScript, React, Python, and Numpy. I enjoy building innovative solutions and continuously learning new technologies.
 
 - 🔭 **Current Project:** Developing an e-commerce website to enhance user shopping experiences.
 - 🌱 **Currently Learning:** Exploring the realms of Machine Learning to integrate intelligent features into web applications.
@@ -33,6 +33,7 @@ I'm [Your Name], a passionate web developer with expertise in HTML, CSS, JavaScr
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikki0234)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/vikki0234)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/__databoii__vikas_07)
 [![Personal Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=About.me&logoColor=white)](https://yourwebsite.com)
